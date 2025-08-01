@@ -1,0 +1,7 @@
+# Ignore environment config
+.env
+
+# Optional: other common ignores
+node_modules
+dist
+*.log
